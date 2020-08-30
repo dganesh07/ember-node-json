@@ -2,13 +2,38 @@
   "link": [
     {
       "id": 1,
-      "title": "LINK link link",
-      "author": "Yehuda Katz"
+      "from": 1,
+      "to": 2,
+      "color": "blue",
+      "text": "alpha-link"
     },
     {
       "id": 2,
-      "title": "Rails is omakase",
-      "author": "D2H"
+      "from": 2,
+      "to": 3,
+      "color": "yellow",
+      "text": "beta-link"
+    },
+    {
+      "id": 3,
+      "from": 3,
+      "to": 4,
+      "color": "green",
+      "text": "gamma-link"
+    },
+    {
+      "id": 4,
+      "from": 4,
+      "to": 5,
+      "color": "purple",
+      "text": "delta-link"
+    },
+    {
+      "id": 5,
+      "from": 5,
+      "to": 1,
+      "color": "red",
+      "text": "epsilon-link"
     }
   ]
 }
