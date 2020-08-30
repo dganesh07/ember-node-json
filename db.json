@@ -1,19 +1,14 @@
 {
-  "posts": {
-    "id": 5,
-    "title": "I'm Running to Reform the W3C's Tag",
-    "author": "Yehuda Katz"
-  },
-  "link": [
+  "posts": [
     {
-      "id": 1,
-      "author": "User 1",
-      "message": "First!"
+      "id": 5,
+      "title": "I'm Running to Reform the W3C's Tag",
+      "author": "Yehuda Katz"
     },
     {
-      "id": 2,
-      "author": "User 2",
-      "message": "Good Luck!"
+      "id": 4,
+      "title": "I'm Running to Reform the W3C's Tag",
+      "author": "Yehuda Katz"
     }
   ]
 }
