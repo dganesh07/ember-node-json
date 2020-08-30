@@ -12,3 +12,18 @@
     }
   ]
 }
+
+{
+    "post": [
+      {
+        "id": 1,
+        "title": "LINK link link",
+        "author": "Yehuda Katz"
+      },
+      {
+        "id": 2,
+        "title": "Rails is omakase",
+        "author": "D2H"
+      }
+    ]
+  }

@@ -1,14 +1,19 @@
 {
-  "posts": [
+  "posts": {
+    "id": 5,
+    "title": "I'm Running to Reform the W3C's Tag",
+    "author": "Yehuda Katz"
+  },
+  "link": [
     {
       "id": 1,
-      "title": "I'm Running to Reform the W3C's Tag",
-      "author": "Yehuda Katz"
+      "author": "User 1",
+      "message": "First!"
     },
     {
       "id": 2,
-      "title": "Rails is omakase",
-      "author": "D2H"
+      "author": "User 2",
+      "message": "Good Luck!"
     }
   ]
 }
